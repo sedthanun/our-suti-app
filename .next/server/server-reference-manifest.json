@@ -1,77 +1,36 @@
 {
   "node": {
-    "7f3a1fcd21fc6fd8dbe9cdd9ca11b35428d9d21bd4": {
+    "7f0d37cad8c2dddd883f8d0fa94a0e2c398c56c750": {
       "workers": {
         "app/page": {
-          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22F%3A%5C%5Cour-suti-app%5C%5Cour-suti-app%5C%5Cactions%5C%5CUserController.js%22%2C%5B%5B%227f3a1fcd21fc6fd8dbe9cdd9ca11b35428d9d21bd4%22%2C%22login%22%5D%2C%5B%227f5afd1f6dc57b842f1df9c97b2f2eebefb18eeb85%22%2C%22logout%22%5D%2C%5B%227f6526b41a94661fc5d5f9f46e2f962e35730de5fd%22%2C%22register%22%5D%5D%5D%5D&__client_imported__=!",
-          "async": false
-        },
-        "app/login/page": {
-          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22F%3A%5C%5Cour-suti-app%5C%5Cour-suti-app%5C%5Cactions%5C%5CUserController.js%22%2C%5B%5B%227f3a1fcd21fc6fd8dbe9cdd9ca11b35428d9d21bd4%22%2C%22login%22%5D%2C%5B%227f5afd1f6dc57b842f1df9c97b2f2eebefb18eeb85%22%2C%22logout%22%5D%2C%5B%227f6526b41a94661fc5d5f9f46e2f962e35730de5fd%22%2C%22register%22%5D%5D%5D%5D&__client_imported__=!",
-          "async": false
-        },
-        "app/create-haiku/page": {
-          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22F%3A%5C%5Cour-suti-app%5C%5Cour-suti-app%5C%5Cactions%5C%5CUserController.js%22%2C%5B%5B%227f3a1fcd21fc6fd8dbe9cdd9ca11b35428d9d21bd4%22%2C%22login%22%5D%2C%5B%227f5afd1f6dc57b842f1df9c97b2f2eebefb18eeb85%22%2C%22logout%22%5D%2C%5B%227f6526b41a94661fc5d5f9f46e2f962e35730de5fd%22%2C%22register%22%5D%5D%5D%5D&__client_imported__=!",
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5Cour-suti-app%5C%5Cactions%5C%5CUserController.js%22%2C%5B%5B%227f0d37cad8c2dddd883f8d0fa94a0e2c398c56c750%22%2C%22login%22%5D%2C%5B%227f261cfbcf4afc7de3518fdeec1a8446616ad3665a%22%2C%22register%22%5D%2C%5B%227f8663f403207050c11d2b6dc034260a5a3ab10a81%22%2C%22logout%22%5D%5D%5D%5D&__client_imported__=!",
           "async": false
         }
       },
       "layer": {
-        "app/page": "rsc",
-        "app/login/page": "rsc",
-        "app/create-haiku/page": "rsc"
+        "app/page": "rsc"
       }
     },
-    "7f5afd1f6dc57b842f1df9c97b2f2eebefb18eeb85": {
+    "7f261cfbcf4afc7de3518fdeec1a8446616ad3665a": {
       "workers": {
         "app/page": {
-          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22F%3A%5C%5Cour-suti-app%5C%5Cour-suti-app%5C%5Cactions%5C%5CUserController.js%22%2C%5B%5B%227f3a1fcd21fc6fd8dbe9cdd9ca11b35428d9d21bd4%22%2C%22login%22%5D%2C%5B%227f5afd1f6dc57b842f1df9c97b2f2eebefb18eeb85%22%2C%22logout%22%5D%2C%5B%227f6526b41a94661fc5d5f9f46e2f962e35730de5fd%22%2C%22register%22%5D%5D%5D%5D&__client_imported__=!",
-          "async": false
-        },
-        "app/login/page": {
-          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22F%3A%5C%5Cour-suti-app%5C%5Cour-suti-app%5C%5Cactions%5C%5CUserController.js%22%2C%5B%5B%227f3a1fcd21fc6fd8dbe9cdd9ca11b35428d9d21bd4%22%2C%22login%22%5D%2C%5B%227f5afd1f6dc57b842f1df9c97b2f2eebefb18eeb85%22%2C%22logout%22%5D%2C%5B%227f6526b41a94661fc5d5f9f46e2f962e35730de5fd%22%2C%22register%22%5D%5D%5D%5D&__client_imported__=!",
-          "async": false
-        },
-        "app/create-haiku/page": {
-          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22F%3A%5C%5Cour-suti-app%5C%5Cour-suti-app%5C%5Cactions%5C%5CUserController.js%22%2C%5B%5B%227f3a1fcd21fc6fd8dbe9cdd9ca11b35428d9d21bd4%22%2C%22login%22%5D%2C%5B%227f5afd1f6dc57b842f1df9c97b2f2eebefb18eeb85%22%2C%22logout%22%5D%2C%5B%227f6526b41a94661fc5d5f9f46e2f962e35730de5fd%22%2C%22register%22%5D%5D%5D%5D&__client_imported__=!",
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5Cour-suti-app%5C%5Cactions%5C%5CUserController.js%22%2C%5B%5B%227f0d37cad8c2dddd883f8d0fa94a0e2c398c56c750%22%2C%22login%22%5D%2C%5B%227f261cfbcf4afc7de3518fdeec1a8446616ad3665a%22%2C%22register%22%5D%2C%5B%227f8663f403207050c11d2b6dc034260a5a3ab10a81%22%2C%22logout%22%5D%5D%5D%5D&__client_imported__=!",
           "async": false
         }
       },
       "layer": {
-        "app/page": "rsc",
-        "app/login/page": "rsc",
-        "app/create-haiku/page": "rsc"
+        "app/page": "rsc"
       }
     },
-    "7f6526b41a94661fc5d5f9f46e2f962e35730de5fd": {
+    "7f8663f403207050c11d2b6dc034260a5a3ab10a81": {
       "workers": {
         "app/page": {
-          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22F%3A%5C%5Cour-suti-app%5C%5Cour-suti-app%5C%5Cactions%5C%5CUserController.js%22%2C%5B%5B%227f3a1fcd21fc6fd8dbe9cdd9ca11b35428d9d21bd4%22%2C%22login%22%5D%2C%5B%227f5afd1f6dc57b842f1df9c97b2f2eebefb18eeb85%22%2C%22logout%22%5D%2C%5B%227f6526b41a94661fc5d5f9f46e2f962e35730de5fd%22%2C%22register%22%5D%5D%5D%5D&__client_imported__=!",
-          "async": false
-        },
-        "app/login/page": {
-          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22F%3A%5C%5Cour-suti-app%5C%5Cour-suti-app%5C%5Cactions%5C%5CUserController.js%22%2C%5B%5B%227f3a1fcd21fc6fd8dbe9cdd9ca11b35428d9d21bd4%22%2C%22login%22%5D%2C%5B%227f5afd1f6dc57b842f1df9c97b2f2eebefb18eeb85%22%2C%22logout%22%5D%2C%5B%227f6526b41a94661fc5d5f9f46e2f962e35730de5fd%22%2C%22register%22%5D%5D%5D%5D&__client_imported__=!",
-          "async": false
-        },
-        "app/create-haiku/page": {
-          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22F%3A%5C%5Cour-suti-app%5C%5Cour-suti-app%5C%5Cactions%5C%5CUserController.js%22%2C%5B%5B%227f3a1fcd21fc6fd8dbe9cdd9ca11b35428d9d21bd4%22%2C%22login%22%5D%2C%5B%227f5afd1f6dc57b842f1df9c97b2f2eebefb18eeb85%22%2C%22logout%22%5D%2C%5B%227f6526b41a94661fc5d5f9f46e2f962e35730de5fd%22%2C%22register%22%5D%5D%5D%5D&__client_imported__=!",
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5Cour-suti-app%5C%5Cactions%5C%5CUserController.js%22%2C%5B%5B%227f0d37cad8c2dddd883f8d0fa94a0e2c398c56c750%22%2C%22login%22%5D%2C%5B%227f261cfbcf4afc7de3518fdeec1a8446616ad3665a%22%2C%22register%22%5D%2C%5B%227f8663f403207050c11d2b6dc034260a5a3ab10a81%22%2C%22logout%22%5D%5D%5D%5D&__client_imported__=!",
           "async": false
         }
       },
       "layer": {
-        "app/page": "rsc",
-        "app/login/page": "rsc",
-        "app/create-haiku/page": "rsc"
-      }
-    },
-    "7f6ac3e1f1a6f3d32b417e14eadb51cff8ad7c390e": {
-      "workers": {
-        "app/create-haiku/page": {
-          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22F%3A%5C%5Cour-suti-app%5C%5Cour-suti-app%5C%5Cactions%5C%5ChaikuController.js%22%2C%5B%5B%227f6ac3e1f1a6f3d32b417e14eadb51cff8ad7c390e%22%2C%22createHaiku%22%5D%5D%5D%5D&__client_imported__=true!",
-          "async": false
-        }
-      },
-      "layer": {
-        "app/create-haiku/page": "action-browser"
+        "app/page": "rsc"
       }
     }
   },

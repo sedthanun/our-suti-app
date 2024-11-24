@@ -1,4 +1,4 @@
-// File: F:\our-suti-app\our-suti-app\app\page.jsx
+// File: C:\Users\user\our-suti-app\app\page.jsx
 import * as entry from '../../../app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
