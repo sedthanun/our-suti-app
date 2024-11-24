@@ -3,7 +3,7 @@ import React from 'react'
 import RegisterForm from '../components/RegisterForm'
 import { getUserFromCookie } from '../lib/getUser'
 import Dashboard from "../components/Dashboard"
-//commet2
+//commet21
 
 export default async function page() {
   const user = await getUserFromCookie()
